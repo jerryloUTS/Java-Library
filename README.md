@@ -1,4 +1,4 @@
-# Java-Library
+# Console-Based Java Library
 Console-Based Library made in Java during my brief time at Western Sydney University (WSU) Sydney City Campus for COMP 2015 Programming Techniques (had the code 3000581 at the time.) Utilises OOP to create and manipulate data.
 
 UNDER FURTHER CONSTRUCTION
